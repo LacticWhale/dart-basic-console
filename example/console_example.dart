@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:io';
 
-import 'package:basic_console/console.dart';
+import 'package:basic_console/basic_console.dart';
 
 final console = Console(stdin: stdin, stdout: stdout, prompt: '> ')..enable();
 
