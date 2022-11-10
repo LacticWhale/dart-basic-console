@@ -1,0 +1,10 @@
+name: basic_console
+description: Very simple console not blocking input package.
+version: 1.0.0+dev.1
+homepage: https://github.com/LacticWhale/dart-console/
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dev_dependencies:
+  zekfad_lints: ^1.1.0
