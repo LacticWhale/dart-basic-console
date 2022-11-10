@@ -1,7 +1,7 @@
 name: basic_console
-description: Very simple console not blocking input package.
-version: 1.0.0+dev.1
-homepage: https://github.com/LacticWhale/dart-console/
+description: Very simple console not blocking input package, allows you to send async messages while getting user-input.
+version: 1.0.0+dev.2
+homepage: https://github.com/LacticWhale/dart-basic-console/
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
